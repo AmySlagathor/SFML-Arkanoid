@@ -1,2 +1,2 @@
 # SFML-Arkanoid
-Arkanoid made with NetBeans and SFML
+Arkanoid clone made with NetBeans and SFML
